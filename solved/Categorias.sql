@@ -1,0 +1,2 @@
+-- link: https://www.beecrowd.com.br/judge/pt/problems/view/2606
+SELECT products.id, products.name FROM products JOIN categories ON categories.id = products.id_categories AND LEFT(categories.name, 5) = 'super';
