@@ -24,4 +24,4 @@ def file_search(path: str) -> None:
 
 
 if __name__ == '__main__':
-    file_search("solved/")
+    file_search("others/")
