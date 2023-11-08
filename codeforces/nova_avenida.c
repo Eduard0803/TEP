@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// link: https://codeforces.com/group/rzjPIoqixu/contest/427860/problem/E
 #define key(a) a
 #define less(a, b) (key(a) < key(b))
 

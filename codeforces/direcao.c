@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// link: https://codeforces.com/group/rzjPIoqixu/contest/427860/problem/D
 int main()
 {
     char input[10], direcao[10];

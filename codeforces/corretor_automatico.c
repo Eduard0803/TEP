@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// link: https://codeforces.com/group/rzjPIoqixu/contest/427860/problem/C
 int main()
 {
     int n_casos, count=0;

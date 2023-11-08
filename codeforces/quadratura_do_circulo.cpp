@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+// link: https://codeforces.com/group/rzjPIoqixu/contest/427860/problem/I
 int main()
 {
     int raio;

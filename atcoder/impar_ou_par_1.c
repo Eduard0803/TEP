@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// link: https://vjudge.net/problem/AtCoder-abc146_a/origin
 int main()
 {
     int input1, input2;

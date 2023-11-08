@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// link: https://codeforces.com/group/rzjPIoqixu/contest/427860/problem/K
 int main()
 {
     int v[4];
