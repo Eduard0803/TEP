@@ -1,4 +1,4 @@
-name: reformat .py files
+name: move exercise files
 
 on: push
 
@@ -20,7 +20,7 @@ jobs:
     - name: Commit changes
       run: |
         git add .
-        git diff-index --quiet HEAD || git commit -m "auto-reformat files"
+        git diff-index --quiet HEAD || git commit -m "auto move exercise files"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
